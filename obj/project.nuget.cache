@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fOYE71GUcIAEM35r4x+r9L2Np5SgabnVQWFzs0qHRn+bXiHcNFimAhhbd3lQHAxHPfvAkbHLuApFRpeCf6GxQw==",
+  "dgSpecHash": "FUnExkTYkxVDiDVlZz893DzND5N1hAACm7GLKCFZ+y3ywwnFpWh+FkmzO6OnpWeUKVNcfI+DeZIG422M89dSsw==",
   "success": true,
-  "projectFilePath": "D:\\WangCong\\githubCode\\test\\WebAPI\\WebAPINew.csproj",
+  "projectFilePath": "D:\\WangCong\\githubCode\\WebAPITest\\WebAPITest\\WebAPINew.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

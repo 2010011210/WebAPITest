@@ -45,7 +45,7 @@ namespace WebAPINew.Controllers
 
         [HttpGet]
         [Route("GetAge")]
-        [Route("GetAge/age")]
+        [Route("GetAge/{age}")]
         public ActionResult GetAge(int age)
         {
             string res = $"Hello, Tom Wang is thirty years ({age}) old";

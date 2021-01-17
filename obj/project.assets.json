@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\WangCong\\githubCode\\test\\WebAPI\\WebAPINew.csproj",
+      "projectUniqueName": "D:\\WangCong\\githubCode\\WebAPITest\\WebAPITest\\WebAPINew.csproj",
       "projectName": "WebAPINew",
-      "projectPath": "D:\\WangCong\\githubCode\\test\\WebAPI\\WebAPINew.csproj",
+      "projectPath": "D:\\WangCong\\githubCode\\WebAPITest\\WebAPITest\\WebAPINew.csproj",
       "packagesPath": "C:\\Users\\86138\\.nuget\\packages\\",
-      "outputPath": "D:\\WangCong\\githubCode\\test\\WebAPI\\obj\\",
+      "outputPath": "D:\\WangCong\\githubCode\\WebAPITest\\WebAPITest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\86138\\AppData\\Roaming\\NuGet\\NuGet.Config",
